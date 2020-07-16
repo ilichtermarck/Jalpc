@@ -1,13 +1,13 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Evolutionary explorations of the rock dwelling flora of western North America
-description: Isaac Marck,Ph.D student, University and Jepson Herbaria, UC Berkeley.
+title: Isaac H. Lichter Marck, Evolutionary Biologist
+description: Welcoms to my personal webpage with descriptions of my research and adventures studying the flora of western North America.
 keywords: Perityle, Rock daisies, Limestone, Edaphic endemism, Biogeography, Asteraceae, Western North America Flora, 
-#baseurl:  /homepage # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://ilichtermarck.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
+baseurl:  /homepage # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://ilichtermarck.github.io/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: homepage/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
@@ -17,7 +17,7 @@ author:  # change following line to your infomation.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: ilichtermarck  # Leave blank if you don't have now
   instagram_id: california_naturalist # Leave blank if you don't have now
-  #facebook_username: jiakunnj  # Leave blank if you don't have now
+  facebook_username: Isaac Marck  # Leave blank if you don't have now
   twitter_username: ca_naturalist  # Leave blank if you don't have now
   email: Ilichtermarck@berkeley.edu  # Leave blank if you don't have now
   cv:  # An online CV can be printed as PDF, leave blank if you don't have now
